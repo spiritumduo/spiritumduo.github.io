@@ -4,6 +4,7 @@ project:
 website:
   title: "Spiritum Duo"
   site-url: "https://spiritumduo.com/"
+  favicon: media/spiritum-duo-logo.png
 
 format:
   html:
